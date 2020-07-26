@@ -1,5 +1,3 @@
-<h2 align="center">PicTweet</h2>
-
 ## :link: アプリケーションの概要
 <ul>
   <li>ツイート投稿共有アプリです。</li>
