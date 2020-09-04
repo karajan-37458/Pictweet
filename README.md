@@ -1,5 +1,7 @@
 <h1 align="center">PicTweet</h1>
 
+[![Image from Gyazo](https://gyazo.com/082c456a66440408233ed6a8c6543d6e.jpg)](https://gyazo.com/082c456a66440408233ed6a8c6543d6e)
+
 ## :link: アプリケーションの概要
 <ul>
   <li>ツイート投稿共有アプリです。</li>
